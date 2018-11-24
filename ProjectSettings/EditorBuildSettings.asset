@@ -4,4 +4,7 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Escena/ManinEscena.unity
+    guid: 0ff9bc1badd375345b80ccd94d3a99d4
